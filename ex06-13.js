@@ -12,8 +12,8 @@ function ThreeSecChange2(){
 }
  
  
-function imgchange2(){
-  document.getElementById('img13').src = './image/ju.png';
+function imgchange2() {
+  document.getElementById('img13').src = './image/josai.png';
   }
   
   
